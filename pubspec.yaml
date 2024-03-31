@@ -1,6 +1,6 @@
 name: popped_button
 description: "This package creates a 3d popped button purely in dart"
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/TamilKannanCV/popped_button.git
 
 environment:
