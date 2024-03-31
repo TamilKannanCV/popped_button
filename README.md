@@ -28,7 +28,7 @@ PoppedButton(
 If you have read up till here, then 🎉🎉🎉. There are couple of ways in which you can contribute to
 the growing community of `popped_button.dart`.
 
-- Pick up any issue marked with ["good first issue"](https://github.com/TamilKannanCV-personal/popped_button/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- Pick up any issue marked with ["good first issue"](https://github.com/TamilKannanCV/popped_button/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 - Propose any feature, enhancement
 - Report a bug
 - Fix a bug
